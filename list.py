@@ -1,0 +1,11 @@
+list=[6,3,9]
+list.append(12)
+print(list)
+list.sort()
+print(list)
+list.reverse()
+print(list)
+list.insert(2,15)
+print(list)
+list.remove(3)
+print(list)
