@@ -1,9 +1,4 @@
-#
-
-
-
-
-    #largest of 4 numbers
+#largest or greatest of 4 numbers
 a=int(input("Enter first number: "))
 b=int(input("Enter second number: "))
 c=int(input("Enter third number: "))
