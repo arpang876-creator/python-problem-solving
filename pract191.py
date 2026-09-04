@@ -1,0 +1,7 @@
+#standard deviation
+import numpy as np
+
+arr = np.array([15, 42, 7, 31, 68, 24])
+
+print(np.var(arr))
+print(np.std(arr))
